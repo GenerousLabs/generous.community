@@ -1,3 +1,3 @@
 module.exports = {
-  maxWidth: 600,
+  maxWidth: 960
 };
