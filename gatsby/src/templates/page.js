@@ -25,6 +25,7 @@ const Page = props => {
           __html: html
         }}
       />
+      <div style={{ paddingBottom: 120 }} />
     </Layout>
   );
 };
