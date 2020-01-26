@@ -8,7 +8,7 @@ description: A community approach to building sustainable software
 
 We’ve started a burner tech mission to help you co-create and participate in your burn. There’s thousands of hours of work involved behind the scenes to create a large-scale, collaborative, community-focused event like our burns. These motivated Burners with tech backgrounds work year-round to maintain and develop bespoke software or evolve existing software to fit the specific needs of the unique Burner community.
 
-Talk(our communication platform), Dreams (art grant distribution), Realities (responsibilities manager) and Bucks (community submissions financing tool) are in the existing suite of tools that we actively use that make our community, the beautiful and decentralised chaos that it is.
+Talk (our communication platform), Dreams (art grant distribution), Realities (responsibilities manager) and Bucks (community submissions financing tool) are in the existing suite of tools that we actively use that make our community, the beautiful and decentralised chaos that it is.
 
 ## What else could we do with your support?
 
@@ -26,7 +26,7 @@ These burners work for the benefit of the community, without the motivation of a
 - Launch Talk 2.0
 - Update Dreams 2.0
 - Made improvements to Realiities
-- Made improvements to XXX (finance)
+- Made improvements to Bucks (finance)
 - Recorded and launched this campaign
 
 We’re now proposing a week long Tech event.
